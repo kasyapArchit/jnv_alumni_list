@@ -11,29 +11,12 @@ int main(){
     in.close();
 
     string tmp;
-    while(!ss.eof()){
-        char ch;
-        ss >> ch;
-        while(!isalpha(ch)) ss >> ch;
-
-        string name, year, tmp;
-        name += ch;
-        getline(ss, tmp, '(');
-        name += tmp;
-        ss >> ch;
-        while(!isdigit(ch)){
-            name += '(';
-            name += ch;
-            getline(ss, tmp, '(');
-            name += tmp;
-            ss >> ch;
-        }
-        
-        while(isdigit(ch)){
-            year += ch;
-            ss >> ch;
-        }
-        mp[stoi(year)].push_back(name);
+    while(getline(ss, tmp, ')')){
+        string name;
+        getline(ss, name, '(');
+        int year;
+        ss >> year;
+        mp[year].push_back(name);
         getline(ss,tmp);
     }
 
