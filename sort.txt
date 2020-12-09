@@ -1,15 +1,17 @@
 Year : 1995
- 1)Neha 
- 2)Rajesh Ranjan Bharti 
- 3)Pankaj Kumar 
- 4)Garima 
- 5)Dr. Sumit Ranjan 
- 6)Aamod Mishra 
- 7)Kamal Sandilya (Phool Kamal Jha) 
+ 1)Kamal Sandilya
+ 2)Neha 
+ 3)Aamod Mishra 
+ 4)Dr. Sumit Ranjan 
+ 5)Garima 
+ 6)Pankaj Kumar 
+ 7)Rajesh Ranjan Bharti 
+ 8)Bikrant kr patwe 
 
 Year : 1996
  1)Dinesh Kumar 
  2)Mithilesh 
+ 3)Priti Kumari 
 
 Year : 1997
  1)Rajesh Jha 
@@ -17,51 +19,73 @@ Year : 1997
 Year : 1998
  1)Mithilesh kumar 
 
+Year : 1999
+ 1)Ashutosh 
+
 Year : 2000
  1)Nitish R Prakash
+ 2)Premvardhan Kumar 
 
 Year : 2003
  1)Anand Kumar 
  2)Dr Priyadarshi kr 
+ 3)Abhijeet Agrawal 
 
 Year : 2004
- 1)manoranjan kumar
- 2)Tinku Singh 
+ 1)Tinku Singh 
+ 2)manoranjan kumar
 
 Year : 2005
- 1)Pragya Shree 
+ 1)Anju Kumari 
  2)Anu Kumari 
  3)Ankita Anand 
+ 4)Pragya Shree 
+ 5)Pratibha Kumari 
+
+Year : 2006
+ 1)Shrinivas Kumar
+ 2)Shalini Bharti
 
 Year : 2007
  1)Aman Kumar 
 
 Year : 2008
  1)Kalpana Kumari 
+ 2)Pratyam pratyush 
 
 Year : 2009
- 1)sumit Kumar 
- 2)Pappu Priyanshu
+ 1)Sumit Kumar 
+ 2)Lucky Kumar 
  3)Rajdeep 
- 4)Lucky Kumar 
+ 4)Pappu Priyanshu
+ 5)Kumari Rajni 
+ 6)Smriti Prakash 
 
 Year : 2010
  1)Vibha kumari
+ 2)Suman Kumar 
+ 3)Prabhakar Raj 
 
 Year : 2011
  1)Ainy Kumari 
  2)Randhir Raj 
  3)Kishore Kumar 
+ 4)Nancy Raj 
+ 5)Prabhat Kumar 
 
 Year : 2012
- 1)Abhinandan Kumar 
- 2)Raman Kumar 
- 3)Satyendra kumar 
- 4)Sangam Kumar 
- 5)Shubham Kumar Singh 
- 6)Sonu Kumar 
- 7)Akshay Kumar 
+ 1)Akshay Kumar 
+ 2)Abhinandan Kumar
+ 3)Sonu Kumar 
+ 4)Shubham Kumar Singh 
+ 5)Sangam Kumar 
+ 6)Satyendra kumar 
+ 7)Raman Kumar 
+ 8)Gaurav Kumar
+ 9)Anshu Kumari 
 
 Year : 2013
  1)Sandeep Kumar bharti 
+ 2)Sudarshan Kumar 
+ 3)Naitika Kumari 
 
